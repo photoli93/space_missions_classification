@@ -12,10 +12,8 @@ env/
 venv/
 .venv/
 
-# Données
-data/raw/
-data/processed/
+# Data
+data/
 
-# Résultats
+# Results
 results/models/
-results/figures/
