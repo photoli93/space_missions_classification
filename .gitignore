@@ -1,13 +1,20 @@
-# --- Fichiers systèmes ---
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# --- Environnements ---
+# Jupyter
+.ipynb_checkpoints/
 
-# --- Python ---
+# Environnement
+env/
+venv/
 
-# --- Logs ---
+# Données
+data/raw/
+data/processed/
 
-# --- Jupyter Notebooks ---
-
-# --- Données ---
-
-# --- Résultats / sorties ---
+# Résultats
+results/models/
+results/figures/
